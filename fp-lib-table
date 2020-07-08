@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name InteractiveGuitar)(type KiCad)(uri ${KIPRJMOD}/footprint/InteractiveGuitar.pretty)(options "")(descr ""))
+  (lib (name "Adafruit MAX4466 Mic Amp")(type KiCad)(uri "${KIPRJMOD}/footprint/Adafruit MAX4466 Mic Amp.pretty")(options "")(descr ""))
+  (lib (name Panelization)(type KiCad)(uri ${KIPRJMOD}/footprint/Panelization.pretty-master)(options "")(descr ""))
+  (lib (name UiO)(type KiCad)(uri ${KIPRJMOD}/footprint/UiO.pretty)(options "")(descr ""))
+)

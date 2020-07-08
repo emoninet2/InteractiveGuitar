@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ADXL337)(type Legacy)(uri ${KIPRJMOD}/symbol/ADXL337.lib)(options "")(descr ""))
+  (lib (name Adafruit_MAX4466_Mic_Amp)(type Legacy)(uri ${KIPRJMOD}/symbol/Adafruit_MAX4466_Mic_Amp.lib)(options "")(descr ""))
+  (lib (name BA12003DF-Z)(type Legacy)(uri ${KIPRJMOD}/symbol/BA12003DF-Z.lib)(options "")(descr ""))
+)

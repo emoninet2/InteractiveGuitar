@@ -477,28 +477,6 @@ F 3 "" H 9700 3900 50  0001 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L dk_Microphones:CMA-4544PF-W MIC?
-U 1 1 5EB336C3
-P 5750 2550
-AR Path="/5EB336C3" Ref="MIC?"  Part="1" 
-AR Path="/5EB20DBD/5EB336C3" Ref="MIC1"  Part="1" 
-F 0 "MIC1" H 5788 2808 60  0000 C CNN
-F 1 "CMA-4544PF-W" H 5788 2702 60  0000 C CNN
-F 2 "digikey-footprints:Mic_CMA-4544PF-W" H 5950 2750 60  0001 L CNN
-F 3 "https://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf" H 5950 2850 60  0001 L CNN
-F 4 "102-1721-ND" H 5950 2950 60  0001 L CNN "Digi-Key_PN"
-F 5 "CMA-4544PF-W" H 5950 3050 60  0001 L CNN "MPN"
-F 6 "Audio Products" H 5950 3150 60  0001 L CNN "Category"
-F 7 "Microphones" H 5950 3250 60  0001 L CNN "Family"
-F 8 "https://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf" H 5950 3350 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/cui-inc/CMA-4544PF-W/102-1721-ND/1869981" H 5950 3450 60  0001 L CNN "DK_Detail_Page"
-F 10 "MIC COND ANALOG OMNI -44DB" H 5950 3550 60  0001 L CNN "Description"
-F 11 "CUI Inc." H 5950 3650 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5950 3750 60  0001 L CNN "Status"
-	1    5750 2550
-	1    0    0    -1  
-$EndComp
-$Comp
 L Adafruit_MAX4466_Mic_Amp:FERRITE FB?
 U 1 1 5EB336C9
 P 9500 1550
@@ -1073,4 +1051,26 @@ Wire Wire Line
 	6500 6550 6500 6750
 Wire Wire Line
 	6000 6600 6000 6750
+$Comp
+L dk_Microphones:CMA-4544PF-W MIC?
+U 1 1 5EB336C3
+P 5750 2550
+AR Path="/5EB336C3" Ref="MIC?"  Part="1" 
+AR Path="/5EB20DBD/5EB336C3" Ref="MIC1"  Part="1" 
+F 0 "MIC1" H 5788 2808 60  0000 C CNN
+F 1 "CMA-4544PF-W" H 5788 2702 60  0000 C CNN
+F 2 "Adafruit MAX4466 Mic Amp:ELECTRET_9.7" H 5950 2750 60  0001 L CNN
+F 3 "https://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf" H 5950 2850 60  0001 L CNN
+F 4 "102-1721-ND" H 5950 2950 60  0001 L CNN "Digi-Key_PN"
+F 5 "CMA-4544PF-W" H 5950 3050 60  0001 L CNN "MPN"
+F 6 "Audio Products" H 5950 3150 60  0001 L CNN "Category"
+F 7 "Microphones" H 5950 3250 60  0001 L CNN "Family"
+F 8 "https://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf" H 5950 3350 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/cui-inc/CMA-4544PF-W/102-1721-ND/1869981" H 5950 3450 60  0001 L CNN "DK_Detail_Page"
+F 10 "MIC COND ANALOG OMNI -44DB" H 5950 3550 60  0001 L CNN "Description"
+F 11 "CUI Inc." H 5950 3650 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5950 3750 60  0001 L CNN "Status"
+	1    5750 2550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

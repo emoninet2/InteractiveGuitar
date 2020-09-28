@@ -1,0 +1,66 @@
+[33mcommit c927753fa405f30ab55f346c0f6244428c322468[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0144f3f 0a48801
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Sun Sep 27 19:04:37 2020 +0200
+
+    Merge branch 'master' of https://github.com/emoninet2/InteractiveGuitar
+
+[33mcommit 0144f3f1871e7c68a85602a7b7211012075301bc[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Sun Sep 27 19:04:25 2020 +0200
+
+    added documenttion images for Bela IDE
+
+[33mcommit 0a4880156d7aada9edbd5b3d8e5893e76f768bed[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Sun Sep 27 18:06:55 2020 +0200
+
+    Create README.md
+
+[33mcommit f73959a31f5b8d874826a8b6e9bfe40f9423aa30[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Sun Sep 27 18:04:53 2020 +0200
+
+    renamed image for bride connection. Added image for PCBOnHeadstock
+
+[33mcommit b164c44fb7f7e7b9626733e942c38514806a96e2[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Sun Sep 27 15:56:31 2020 +0200
+
+    uploaded documentation image of stencil
+
+[33mcommit 3d021737f8a3177bd302a98e2e96151d1cf0ca87[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Sun Sep 27 00:44:58 2020 +0200
+
+    added documentation images
+
+[33mcommit 38a8d4277f2a18615157b2a9db89fa00fafda3b7[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Sat Sep 26 21:01:04 2020 +0200
+
+    added case design and patch software
+
+[33mcommit a591127f2bd1c4fc55f5102ae3ab92e34b653f89[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Thu Jul 23 01:36:40 2020 +0200
+
+    fixed mic polarity
+
+[33mcommit 569a1052234efcf43db21e4ba8f7929c9faaf413[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Thu Jul 9 18:28:01 2020 +0200
+
+    changed connection bits
+
+[33mcommit 1d02fbffd7e586954f805122586c8f0c68f8e5f5[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Wed Jul 8 17:50:00 2020 +0200
+
+    added existing project files and folders
+
+[33mcommit 06b0344f61ea75603030c2f0a1840074706b795b[m
+Author: Habibur Rahman <hr19392@gmail.com>
+Date:   Wed Jul 8 17:46:06 2020 +0200
+
+    Initial commit
